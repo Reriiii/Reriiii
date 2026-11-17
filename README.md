@@ -1,25 +1,87 @@
-# 💫 About Me:
-I'm an AI student focused on Deep Learning, Computer Vision, and research-based model development.  <br>
-I enjoy turning research papers into working projects, especially in Handwritten Mathematical Expression Recognition, Transformer-based models, and data-centric AI systems.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Tr%E1%BA%A7n%20Ki%E1%BA%BFn%20Qu%E1%BB%91c&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Applied%20ML%20Research&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Trần Kiến Quốc — AI Engineer · Applied ML Research"/>
+</p>
 
+<p align="center">
+  <b>Parameter-efficient vision-language models · Handwritten math & chemistry recognition · Observable LLM agents</b>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kienquoc3108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reri) 
+<p align="center">
+  <a href="mailto:quockientran100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Reriiii/my-resume/blob/main/Tran%20Kien%20Quoc_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2c5364?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/reri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://huggingface.co/quoctk31"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://mathsnap-ai.vercel.app"><img src="https://img.shields.io/badge/Demo-MathSnap%20AI-000000?style=flat-square&logo=vercel&logoColor=white" alt="MathSnap AI demo"/></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Reriiii&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Reriiii&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Reriiii&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Reriiii&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
+I'm an AI engineer who likes to **read a paper, reproduce it, and ship it end-to-end**, from the training loop to a live demo, and to report results honestly with reproducible code.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- **Interests:** adapting vision-language models (CLIP, prompt learning, LoRA) under distribution shift, document AI for handwritten math & chemistry, and LLM agents you can actually inspect.
+- **Currently:** domain-adapting TexTeller for handwritten chemistry and building bounded, observable research agents.
+- **Open to:** research collaborations and AI engineering roles. Reach me at [quockientran100@gmail.com](mailto:quockientran100@gmail.com) or see my [resume](https://github.com/Reriiii/my-resume/blob/main/Tran%20Kien%20Quoc_Resume.pdf).
 
----
-[![](https://komarev.com/ghpvc/?username=Reriiii&icon=0&color=0)](https://visitcount.itsvg.in)
+## Featured Work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧮 [MathSnap AI](https://github.com/Reriiii/MathSnap-AI)
+Handwritten math → LaTeX with **Mini-CoMER**, a compact coverage-aware Transformer: **6.39M params (68% fewer than CoMER)** with **47.9% ExpRate on CROHME 2019**. Served with FastAPI on 🤗 Spaces behind a React/TS frontend.
+
+[Live demo](https://mathsnap-ai.vercel.app) · [API](https://quoctk31-mathsnap-ai.hf.space)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🦌 [PGVA: Prompt-Guided Visual Adaptation](https://github.com/Reriiii/pgva-iwildcam)
+Adapts a **frozen CLIP ViT-B/16** to camera-trap wildlife under domain shift with a shared CoOp text prompt and visual LoRA. Only **150K trainable params** reach **35.23 OOD-test macro-F1** on iWildCam (WILDS). Single-seed, reproducible release.
+
+[Experiment workspace](https://github.com/Reriiii/dg-iwildcam)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔎 [Research Desk](https://github.com/Reriiii/research-desk)
+*Research with a visible method.* A LangGraph agent that turns a question into a sourced report: bounded ReAct loops, evidence-only writing, AgentOps tracing and a FastAPI + TUI front end, covered by 15 tests.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚗️ [TexTeller4Chemical](https://github.com/Reriiii/texteller4chemical) <sub><i>(in progress)</i></sub>
+Domain-adapting pretrained **TexTeller** for handwritten chemical formula and structure recognition on EDU-CHEMC, with full fine-tuning and LoRA variants and graph-preserving evaluation.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| [Activation Functions Study](https://github.com/Reriiii/activation-functions) | ReLU / GELU / Swish / Mish … compared across AlexNet, VGG, ResNet and EfficientNet on MNIST & CIFAR |
+| [ChromaVibe](https://github.com/Reriiii/ChromaVibe) | Real-time chat whose UI reacts to message sentiment. Next.js + NestJS + a FastAPI NLP service |
+| [N-Gram Autocomplete](https://github.com/Reriiii/autocomplete-using-ngram-model) | Next-word prediction with smoothed n-gram language models, evaluated by perplexity |
+
+</details>
+
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,react,ts,cpp,git&perline=10" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, React, TypeScript, C++, Git"/>
+</p>
+
+| Area | Tools |
+|---|---|
+| **Modeling** | PyTorch · 🤗 Transformers · PEFT (LoRA) · Accelerate · CLIP · TensorFlow / Keras · scikit-learn |
+| **LLMs & Agents** | LangGraph · LangChain · OpenAI & Gemini APIs · Ollama · ChromaDB |
+| **Experiments** | Weights & Biases · TensorBoard · Jupyter · pytest · Ruff |
+| **Shipping** | FastAPI · React · 🤗 Spaces · Vercel |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%" alt=""/>
