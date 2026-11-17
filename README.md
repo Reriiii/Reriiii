@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Tr%E1%BA%A7n%20Ki%E1%BA%BFn%20Qu%E1%BB%91c&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Applied%20ML%20Research&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Trần Kiến Quốc — AI Engineer · Applied ML Research"/>
-</p>
-
-<p align="center">
-  <b>Parameter-efficient vision-language models · Handwritten math & chemistry recognition · Observable LLM agents</b>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Trần Kiến Quốc — AI Engineer · Applied ML Research" src="dark_mode.svg">
+</picture>
 
 <p align="center">
   <a href="mailto:quockientran100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -14,13 +12,7 @@
   <a href="https://mathsnap-ai.vercel.app"><img src="https://img.shields.io/badge/Demo-MathSnap%20AI-000000?style=flat-square&logo=vercel&logoColor=white" alt="MathSnap AI demo"/></a>
 </p>
 
-## About
-
-I'm an AI engineer who likes to **read a paper, reproduce it, and ship it end-to-end**, from the training loop to a live demo, and to report results honestly with reproducible code.
-
-- **Interests:** adapting vision-language models (CLIP, prompt learning, LoRA) under distribution shift, document AI for handwritten math & chemistry, and LLM agents you can actually inspect.
-- **Currently:** domain-adapting TexTeller for handwritten chemistry and building bounded, observable research agents.
-- **Open to:** research collaborations and AI engineering roles. Reach me at [quockientran100@gmail.com](mailto:quockientran100@gmail.com) or see my [resume](https://github.com/Reriiii/my-resume/blob/main/Tran%20Kien%20Quoc_Resume.pdf).
+<p align="center"><i>I read a paper, reproduce it, and ship it end-to-end. Open to research collaborations and AI engineering roles.</i></p>
 
 ## Featured Work
 
@@ -128,5 +120,3 @@ Domain-adapting pretrained **TexTeller** for handwritten chemical formula and st
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%" alt=""/>
